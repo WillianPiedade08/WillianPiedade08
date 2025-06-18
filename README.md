@@ -25,12 +25,3 @@
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
-
-
